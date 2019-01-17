@@ -1,1 +1,3 @@
-var parrot="Squawk!"
+def parrot
+  puts "Squawk!"
+end
